@@ -47,3 +47,26 @@ printf("Enter the first number: ");
   } goto start; 
   return 0; 
 }
+
+/output
+
+--- Menu-Driven Calculator ---
+
+1. Addition
+
+2. Subtraction
+
+3. Multiplication
+
+4. Division
+
+5. Exit
+
+Enter your choice (1-5): 4
+
+Enter the first number: 65
+
+Enter the second number: 45
+
+Result: 65.00 / 45.00 = 1.44
+
